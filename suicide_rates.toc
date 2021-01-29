@@ -1,0 +1,27 @@
+\babel@toc {serbian}{}
+\contentsline {section}{Baza podataka}{2}{section*.2}%
+\contentsline {section}{Priprema podataka}{4}{section*.3}%
+\contentsline {subsection}{Pronalaženje i rešavanje nepostojećih vrednosti}{4}{section*.4}%
+\contentsline {subsection}{Selekcija atributa}{5}{section*.5}%
+\contentsline {section}{Analiza}{9}{section*.6}%
+\contentsline {subsection}{Globalni trend}{9}{section*.7}%
+\contentsline {subsubsection}{Po godini}{9}{section*.8}%
+\contentsline {subsubsection}{Po kontinentu}{10}{section*.9}%
+\contentsline {subsubsection}{Po zemlji}{12}{section*.10}%
+\contentsline {subsubsection}{Po uzrastu}{17}{section*.11}%
+\contentsline {subsubsection}{Po uzrastu i kontinentu}{19}{section*.12}%
+\contentsline {subsubsection}{Po polu}{20}{section*.13}%
+\contentsline {subsubsection}{Po polu i kontinentu}{21}{section*.14}%
+\contentsline {subsubsection}{Po polu i zemlji}{22}{section*.15}%
+\contentsline {subsubsection}{Po prihodu po glavi stanovnika}{24}{section*.16}%
+\contentsline {subsection}{Srbija i okolina}{27}{section*.17}%
+\contentsline {subsubsection}{Po godini}{27}{section*.18}%
+\contentsline {subsubsection}{Po polu}{28}{section*.19}%
+\contentsline {subsubsection}{Po uzrastu}{29}{section*.20}%
+\contentsline {section}{Mašinsko učenje}{31}{section*.21}%
+\contentsline {subsection}{Kreiranje trening i testnog skupa podataka}{31}{section*.22}%
+\contentsline {subsection}{Linearna regresija}{31}{section*.23}%
+\contentsline {subsection}{Random Forest}{33}{section*.24}%
+\contentsline {subsection}{Holtovo eksponencijalno glačanje}{33}{section*.25}%
+\contentsline {section}{Zaključak}{37}{section*.26}%
+\contentsline {section}{Literatura}{38}{section*.27}%
